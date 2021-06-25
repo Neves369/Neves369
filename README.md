@@ -2,9 +2,10 @@
 
 ---
 
-<p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+
+  ![Card-github](https://user-images.githubusercontent.com/63128431/123490240-0fdae780-d5ea-11eb-8457-a1ec7023abc3.jpg)
+
+
 
 ### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript and python, and I am working on my thesis on IoT. In the near future I want to focus my studies on information security and get my Desec Certified Penetration Tester (DCPT) certificate.
 
