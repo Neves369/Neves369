@@ -58,5 +58,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [Neves369](https://github.com/Neves369)
 
 
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[instagram]: https://www.instagram.com/dneves.369/
+[linkedin]: https://www.linkedin.com/in/douglas-neves-3946b51a0/
