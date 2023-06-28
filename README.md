@@ -7,16 +7,9 @@
 
 
 
-### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript and python, and I am working on my thesis on IoT. In the near future I want to focus my studies on information security and get my Desec Certified Penetration Tester (DCPT) certificate.
+### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript, python and IoT. In the near future I want to focus my studies on information security and get my Desec Certified Penetration Tester (DCPT) certificate.
 
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
- 
-
- 
-
-
-![Profile views](https://gpvc.arturio.dev/Neves369)  <img src="https://img.shields.io/github/followers/Neves369?label=Follow" style=" float:left, margin-right:10px" />
-
 
 ---
 
