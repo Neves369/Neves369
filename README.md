@@ -30,9 +30,9 @@ $ echo 'Welcome my friend'
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves369&show_icons=true&hide_border=true)
-
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves369&show_icons=true&locale=en&layout=compact&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Neves369&show_icons=true&locale=en&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
 ---
 
 
