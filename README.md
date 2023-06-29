@@ -1,31 +1,32 @@
 ### Hey Douglas Neves here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
----
-
-
-  ![Card-github](https://user-images.githubusercontent.com/63128431/123490240-0fdae780-d5ea-11eb-8457-a1ec7023abc3.jpg)
-
-
+```python
+$ echo 'Welcome my friend'
+    ...         .::::::::        :-------------------:                  @Neves369
+ :------:       :--:...:--:       .-----:::::::::::---                  ----------
+:--    :--      :--      :--:       .---:          ---                  Uptime: "23 years"
+:-:    .--      :--        :--:       .---:        ---                  Position: "Teresópois, Rio de Janeiro, Brasil"
+ ---:::--:      :--  :.      :--:        :--:.     ---                  Languages: ["Python", "JavaScript", "Java", "C++"]
+   .::::---.    :--  --:.      :--:        :---.   ---                  Framworks: ["React", "React Native", "Node"]
+         :---.   .:   .--:.      :--:        :---. .--                  Databases: ["MySQL", "PostgreSQL", "MongoDB"]
+           :---.        .--:.      :--:        :---. .                  OS: ["Windows", "Linux"]
+             :--:         .--:.      :--:        :--:                   Editor: ["VSCode", "Eclipse"]
+               :--:         .--:.      :--:        :--:                 hobbies: ["Gaming", "Music", "Books"]
+                .---:         .--:.      :--:       .---:                       
+                  .---:         .--:.      :--:    .  .---:                     
+                :-. .---:         .--:.      :--:  ::.  .---:                   
+                :--   .:--:         .--:.      :-  :-:    .:--:.::.      contacts
+                :--      :--:         .--:.        :-:      .---::---    ------------
+                :--        :--:.        .--:.      :-:      --:    :--   Email: "douglasbrian369@gmail.com"
+                :--          :--:.        .--:.    :-:      --:    :--   Telegram: "t.me/alessiocelentano"
+                :--:..........:---:         .--:...--:       :--:---:    Reddit: "u/alessiocelentano"
+                :-------------------:         .:-----:         ....      Linkedin: ""
+                                                                                          
+```
 
 ### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript, python and IoT. In the near future I want to focus my studies on information security and get my Desec Certified Penetration Tester (DCPT) certificate.
 
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
-
----
-
-
-### Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-
-### Other Languages I know
- <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 
 ---
 
