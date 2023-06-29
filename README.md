@@ -2,25 +2,26 @@
 
 ```python
 $ echo 'Welcome my friend'
-    ...         .::::::::        :-------------------:                  @Neves369
- :------:       :--:...:--:       .-----:::::::::::---                  ----------
-:--    :--      :--      :--:       .---:          ---                  Uptime: "23 years"
-:-:    .--      :--        :--:       .---:        ---                  Position: "Teresópois, Rio de Janeiro, Brasil"
- ---:::--:      :--  :.      :--:        :--:.     ---                  Languages: ["Python", "JavaScript", "Java", "C++"]
-   .::::---.    :--  --:.      :--:        :---.   ---                  Framworks: ["React", "React Native", "Node"]
-         :---.   .:   .--:.      :--:        :---. .--                  Databases: ["MySQL", "PostgreSQL", "MongoDB"]
-           :---.        .--:.      :--:        :---. .                  OS: ["Windows", "Linux"]
-             :--:         .--:.      :--:        :--:                   Editor: ["VSCode", "Eclipse"]
-               :--:         .--:.      :--:        :--:                 hobbies: ["Gaming", "Music", "Books"]
-                .---:         .--:.      :--:       .---:                       
-                  .---:         .--:.      :--:    .  .---:                     
-                :-. .---:         .--:.      :--:  ::.  .---:                   
-                :--   .:--:         .--:.      :-  :-:    .:--:.::.      contacts
-                :--      :--:         .--:.        :-:      .---::---    ------------
-                :--        :--:.        .--:.      :-:      --:    :--   Email: "douglasbrian369@gmail.com"
-                :--          :--:.        .--:.    :-:      --:    :--   Telegram: "t.me/alessiocelentano"
-                :--:..........:---:         .--:...--:       :--:---:    Reddit: "u/alessiocelentano"
-                :-------------------:         .:-----:         ....      Linkedin: ""
+
+:::::::::        :-------------------:    @Neves369
+:--:...:--:       .-----:::::::::::---    ----------
+:--      :--:       .---:          ---    Uptime: "23 years"
+:--        :--:       .---:        ---    Position: "Teresópois, Rio de Janeiro, Brasil"
+:--  :.      :--:        :--:.     ---    Languages: ["Python", "JavaScript", "Java", "C++"]
+:--  --:.      :--:        :---.   ---    Framworks: ["React", "React Native", "Node"]
+:.:   .--:.      :--:        :---. .--    Databases: ["MySQL", "PostgreSQL", "MongoDB"]
+:       .--:.      :--:        :---. .    OS: ["Windows", "Linux"]
+:         .--:.      :--:        :--:     Editor: ["VSCode", "Eclipse"]
+:-:         .--:.      :--:        :--    hobbies: ["Gaming", "Music", "Books"]
+:---:         .--:.      :--:       .-                       
+: .---:         .--:.      :--:    . .                     
+:-. .---:         .--:.      :--:  ::.                     
+:--   .:--:         .--:.      :-  :-:    contacts
+:--      :--:         .--:.        :-:    ------------
+:--        :--:.        .--:.      :-:    Email: "douglasbrian369@gmail.com"
+:--          :--:.        .--:.    :-:    Telegram: "t.me/dneves369"
+:--:..........:---:         .--:...--:    Reddit: "u/DnB369"
+:-------------------:         .:-----:   
                                                                                           
 ```
 
