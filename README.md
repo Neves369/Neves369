@@ -12,7 +12,7 @@ $ echo 'Welcome my friend'
 :.:   .--:.      :--:        :---. .--    Databases: ["MySQL", "PostgreSQL", "MongoDB"]
 :       .--:.      :--:        :---. .    OS: ["Windows", "Linux"]
 :         .--:.      :--:        :--:     Editor: ["VSCode", "Eclipse"]
-:-:         .--:.      :--:        :--    hobbies: ["Gaming", "Music", "Books"]
+:-:         .--:.      :--:        :--    Hobbies: ["Gaming", "Music", "Books"]
 :---:         .--:.      :--:       .-                       
 : .---:         .--:.      :--:    . .                     
 :-. .---:         .--:.      :--:  ::.                     
