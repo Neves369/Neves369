@@ -29,7 +29,9 @@ $ echo 'Welcome my friend'
 
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
 
----
+## Skills
+![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css,react,nodejs,spring,mysql,mongodb,postgres,arduino,ros)
+
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves369&show_icons=true&locale=en&layout=compact&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Neves369&show_icons=true&locale=en&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
@@ -38,9 +40,8 @@ $ echo 'Welcome my friend'
 
 
 ### You can find in me in the web 🌍
-
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
+[![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
 
 <br/>
 
