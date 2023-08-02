@@ -33,7 +33,7 @@ $ echo 'Welcome my friend'
 ![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css,react,nodejs,spring,mysql,mongodb,postgres,arduino,ros)
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves369&show_icons=true&locale=en&layout=compact&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neves369&show_icons=true&locale=en&layout=compact&theme=react&include_all_commits=true" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Neves369&show_icons=true&locale=en&theme=react" alt="Neves369" /></p><br><br><br><br><br><br><br><br>
 
 ---
