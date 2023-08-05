@@ -25,7 +25,7 @@ $ echo 'Welcome my friend'
                                                                                           
 ```
 
-### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript, python and IoT. In the near future I want to focus my studies on information security and get my Desec Certified Penetration Tester (DCPT) certificate.
+### I'm a beginner programming student, but I aim to learn more and more. I intend to continue my studies in JavaScript, python and IoT. In the near future I want to focus my studies on information security.
 
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
 
