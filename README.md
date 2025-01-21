@@ -6,7 +6,7 @@ $ echo 'Welcome my friend'
 
 :::::::::        :-------------------:    @Neves369
 :--:...:--:       .-----:::::::::::---    ----------
-:--      :--:       .---:          ---    Uptime: "24 years"
+:--      :--:       .---:          ---    Uptime: "25 years"
 :--        :--:       .---:        ---    Position: "Teresópois, Rio de Janeiro, Brasil"
 :--  :.      :--:        :--:.     ---    Languages: ["Python", "JavaScript", "Java", "C++"]
 :--  --:.      :--:        :---.   ---    Framworks: ["React", "React Native", "Node"]
