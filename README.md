@@ -34,14 +34,12 @@ $ echo 'Welcome my friend'
 ![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css,react,nodejs,spring,mysql,mongodb,postgres,arduino,ros)
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ck0ni.png" alt="Your Image Badge" />
 
 
 ### You can find in me in the web 🌍
 [![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [![My Skills](https://skillicons.dev/icons?i=instagram)][instagram]
-
-<br/>
-
 
 ---
 
