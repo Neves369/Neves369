@@ -8,7 +8,7 @@ $ echo 'Welcome my friend'
 :--:...:--:       .-----:::::::::::---    ----------
 :--      :--:       .---:          ---    Uptime: "26 years"
 :--        :--:       .---:        ---    Position: "Teresópois, Rio de Janeiro, Brasil"
-:--  :.      :--:        :--:.     ---    Languages: ["Python", "JavaScript", "Java", "C++"]
+:--  :.      :--:        :--:.     ---    Languages: ["JavaScript", "Python", "Java", "C++"]
 :--  --:.      :--:        :---.   ---    Framworks: ["React", "React Native", "Node"]
 :.:   .--:.      :--:        :---. .--    Databases: ["MySQL", "PostgreSQL", "MongoDB"]
 :       .--:.      :--:        :---. .    OS: ["Windows", "Linux"]
@@ -31,7 +31,7 @@ $ echo 'Welcome my friend'
 *"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"*
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css,react,nodejs,spring,mysql,mongodb,postgres,arduino,ros)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,ts,js,react,nodejs,spring,mongodb,postgres,arduino,ros)
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ck0ni.png" alt="Your Image Badge" />
