@@ -8,7 +8,7 @@ $ echo 'Welcome my friend'
 :--:...:--:       .-----:::::::::::---    ----------
 :--      :--:       .---:          ---    Uptime: "26 years"
 :--        :--:       .---:        ---    Position: "Teresópois, Rio de Janeiro, Brasil"
-:--  :.      :--:        :--:.     ---    Languages: ["JavaScript", "Python", "Java", "C++"]
+:--  :.      :--:        :--:.     ---    Languages: ["JavaScript", "C++", "Python", "Java"]
 :--  --:.      :--:        :---.   ---    Framworks: ["React", "React Native", "Node"]
 :.:   .--:.      :--:        :---. .--    Databases: ["MySQL", "PostgreSQL", "MongoDB"]
 :       .--:.      :--:        :---. .    OS: ["Windows", "Linux"]
