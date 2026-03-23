@@ -36,6 +36,8 @@ $ echo 'Welcome my friend'
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Bl4ck0ni.png" alt="Your Image Badge" />
 
+![neves369's Stats](https://github-readme-stats.vercel.app/api?username=neves369&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![neves369's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neves369&theme=monokai&hide_border=true)
 
 ### You can find in me in the web 🌍
 [![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
