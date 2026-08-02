@@ -11,8 +11,8 @@ $ echo 'Welcome my friend'
 :--  :.      :--:        :--:.     ---    Languages: ["JavaScript", "C++", "Python", "Java"]
 :--  --:.      :--:        :---.   ---    Framworks: ["React", "React Native", "Node"]
 :.:   .--:.      :--:        :---. .--    Databases: ["MySQL", "PostgreSQL", "MongoDB"]
-:       .--:.      :--:        :---. .    OS: ["Windows", "Linux"]
-:         .--:.      :--:        :--:     Editor: ["VSCode", "Eclipse"]
+:       .--:.      :--:        :---. .    OS: ["Ubuntu", "Arch"]
+:         .--:.      :--:        :--:     Editor: ["VSCode", "NeoVim"]
 :-:         .--:.      :--:        :--    Hobbies: ["Gaming", "Music", "Books"]
 :---:         .--:.      :--:       .-                       
 : .---:         .--:.      :--:    . .                     
